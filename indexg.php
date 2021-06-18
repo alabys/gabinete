@@ -16,7 +16,7 @@
   
   <h1>PAGINA PRINCIPAL</h1>
 
-<a href="formulario.php"><p>formulario 1</p><a>
+<a href="formulariog.php"><p>formulario 1</p><a>
 
 	
 
